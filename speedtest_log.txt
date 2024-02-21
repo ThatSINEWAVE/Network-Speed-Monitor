@@ -1,0 +1,10 @@
+Time:
+Server:
+Client IP:
+ISP:
+Download Speed:
+Upload Speed:
+Latency:
+Jitter:
+Packet Loss:
+

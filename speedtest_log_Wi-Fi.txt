@@ -1,0 +1,6 @@
+Time: 2023-11-20 14:14:34
+Error: Unable to parse Speedtest results
+
+Time: 2023-11-20 14:23:23
+Error: Unable to parse Speedtest results
+
