@@ -8,6 +8,8 @@ A Python-based tool for monitoring and logging your network's speed, utilizing t
 - **Configurable Intervals**: Set the interval between consecutive network speed tests.
 - **Detailed Logging**: Maintains logs for different network types (Ethernet, Wi-Fi) to track performance over time.
 
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 ## Prerequisites
 
 - Python 3.x
