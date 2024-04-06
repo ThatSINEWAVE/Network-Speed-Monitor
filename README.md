@@ -1,6 +1,10 @@
+<div align="center">
+
 # Network Speed Monitor
 
 A Python-based tool for monitoring and logging your network's speed, utilizing the Speedtest CLI by Ookla. This local utility periodically checks your network's latency, download, and upload speeds, and logs the results for review.
+
+</div>
 
 ## Features
 
@@ -8,7 +12,11 @@ A Python-based tool for monitoring and logging your network's speed, utilizing t
 - **Configurable Intervals**: Set the interval between consecutive network speed tests.
 - **Detailed Logging**: Maintains logs for different network types (Ethernet, Wi-Fi) to track performance over time.
 
+<div align="center">
+
 ## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
+</div>
 
 ## Prerequisites
 
