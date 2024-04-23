@@ -29,6 +29,12 @@ A Python-based tool for monitoring and logging your network's speed, utilizing t
 2. Clone this repository to your local machine.
 3. Install any required Python dependencies (if specified).
 
+<div align="center">
+
+# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+
+</div>
+
 ## Usage
 
 Execute `main_v2.py` to start the speed monitoring process. The script will perform network speed tests at the configured intervals and log the results in designated files.
