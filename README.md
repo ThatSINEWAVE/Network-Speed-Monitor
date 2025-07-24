@@ -31,7 +31,7 @@ A Python-based tool for monitoring and logging your network's speed, utilizing t
 
 <div align="center">
 
-# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+# [Join my discord server](https://thatsinewave.github.io/Discord-Redirect/)
 
 </div>
 
