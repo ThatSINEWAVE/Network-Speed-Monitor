@@ -16,3 +16,121 @@ Error: Unable to parse Speedtest results
 Time: 2024-02-20 04:38:54
 Error: Unable to parse Speedtest results
 
+Time: 2026-03-06 16:30:09
+Error: Unable to parse Speedtest results
+
+Time: 2026-03-06 16:55:10
+Interface: Ethernet
+Server: Ulus, Turkey
+Client IP: 5.47.231.235
+ISP: Turk Telekom
+Download Speed: 14.65 Mbps
+Upload Speed: 14.04 Mbps
+Latency: 44.483 ms
+
+Time: 2026-03-06 17:05:32
+Interface: Ethernet
+Server: Bursa, Turkey
+Client IP: 5.47.231.235
+ISP: Turk Telekom
+Download Speed: 36.91 Mbps
+Upload Speed: 18.86 Mbps
+Latency: 45.639 ms
+
+Time: 2026-03-06 17:16:18
+Interface: Ethernet
+Server: Kocaeli, Turkey
+Client IP: 5.47.231.235
+ISP: Turk Telekom
+Download Speed: 26.98 Mbps
+Upload Speed: 11.89 Mbps
+Latency: 38.699 ms
+
+Time: 2026-03-06 17:26:09
+Interface: Ethernet
+Server: Ulus, Turkey
+Client IP: 5.47.231.235
+ISP: Turk Telekom
+Download Speed: 20.29 Mbps
+Upload Speed: 19.01 Mbps
+Latency: 48.087 ms
+
+Time: 2026-03-06 17:29:58
+Interface: Ethernet
+Server: Ulus, Turkey
+Client IP: 5.47.231.235
+ISP: Turk Telekom
+Download Speed: 22.07 Mbps
+Upload Speed: 21.21 Mbps
+Latency: 41.004 ms
+
+Time: 2026-03-06 18:01:29
+Error: Expecting value: line 1 column 1 (char 0)
+
+Time: 2026-03-06 18:08:58
+Interface: Ethernet
+Server: Ýzmit, Türkiye
+Client IP: 5.47.231.235
+ISP: Turk Telekom
+Download Speed: 33.41 Mbps
+Upload Speed: 17.79 Mbps
+Latency: 43.85 ms
+
+Time: 2026-03-06 18:14:26
+Interface: Ethernet
+Server: Ulus, Turkey
+Client IP: 5.47.231.235
+ISP: Turk Telekom
+Download Speed: 36.12 Mbps
+Upload Speed: 17.90 Mbps
+Latency: 39.159 ms
+
+Time: 2026-03-06 18:18:01
+Interface: Ethernet
+Server: Bursa, Turkey
+Client IP: 5.47.231.235
+ISP: Turk Telekom
+Download Speed: 14.30 Mbps
+Upload Speed: 15.60 Mbps
+Latency: 45.359 ms
+
+Time: 2026-03-10 10:13:40
+Interface: Ethernet
+Server: Eskisehir, Türkiye
+Client IP: 193.255.91.160
+ISP: National Academic Network and Information Center
+Download Speed: 11.97 Mbps
+Upload Speed: 7.18 Mbps
+Latency: 129.66 ms
+
+Time: 2026-05-07 10:52:01
+Interface: Ethernet
+Server: Ankara, Türkiye
+Client IP: 193.255.91.132
+ISP: National Academic Network and Information Center
+Download Speed: 36.60 Mbps
+Upload Speed: 12.89 Mbps
+Latency: 53.946 ms
+
+Time: 2026-05-07 11:02:28
+Interface: Ethernet
+Error: Speedtest output empty
+
+Time: 2026-05-07 11:13:24
+Interface: Ethernet
+Server: Ankara, Türkiye
+Client IP: 193.255.91.132
+ISP: National Academic Network and Information Center
+Download Speed: 17.96 Mbps
+Upload Speed: 41.38 Mbps
+Latency: 44.438 ms
+
+Time: 2026-05-07 11:24:16
+Interface: Ethernet
+Server: Ýzmit, Türkiye
+Client IP: 193.255.91.132
+ISP: National Academic Network and Information Center
+Download Speed: 6.71 Mbps
+Upload Speed: 18.82 Mbps
+Latency: 72.657 ms
+
