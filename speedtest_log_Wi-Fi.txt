@@ -4,3 +4,69 @@ Error: Unable to parse Speedtest results
 Time: 2023-11-20 14:23:23
 Error: Unable to parse Speedtest results
 
+Time: 2026-03-06 17:00:11
+Error: Expecting value: line 1 column 1 (char 0)
+
+Time: 2026-03-06 17:10:55
+Interface: Wi-Fi
+Server: Bursa, Turkey
+Client IP: 5.47.231.235
+ISP: Turk Telekom
+Download Speed: 11.82 Mbps
+Upload Speed: 13.38 Mbps
+Latency: 47.419 ms
+
+Time: 2026-03-06 17:21:42
+Interface: Wi-Fi
+Server: Eskisehir, Turkey
+Client IP: 5.47.231.235
+ISP: Turk Telekom
+Download Speed: 26.65 Mbps
+Upload Speed: 10.81 Mbps
+Latency: 42.061 ms
+
+Time: 2026-03-06 18:06:55
+Interface: Wi-Fi
+Server: Bursa, Turkey
+Client IP: 5.47.231.235
+ISP: Turk Telekom
+Download Speed: 5.67 Mbps
+Upload Speed: 17.69 Mbps
+Latency: 49.851 ms
+
+Time: 2026-05-07 10:57:27
+Interface: Wi-Fi
+Server: Ankara, Türkiye
+Client IP: 193.255.91.132
+ISP: National Academic Network and Information Center
+Download Speed: 36.75 Mbps
+Upload Speed: 41.25 Mbps
+Latency: 53.417 ms
+
+Time: 2026-05-07 11:07:57
+Interface: Wi-Fi
+Server: Ankara, Türkiye
+Client IP: 193.255.91.132
+ISP: National Academic Network and Information Center
+Download Speed: 1.10 Mbps
+Upload Speed: 3.11 Mbps
+Latency: 104.867 ms
+
+Time: 2026-05-07 11:18:51
+Interface: Wi-Fi
+Server: Ýzmit, Türkiye
+Client IP: 193.255.91.132
+ISP: National Academic Network and Information Center
+Download Speed: 12.43 Mbps
+Upload Speed: 27.13 Mbps
+Latency: 60.827 ms
+
+Time: 2026-05-07 11:29:40
+Interface: Wi-Fi
+Server: Ankara, Türkiye
+Client IP: 193.255.91.132
+ISP: National Academic Network and Information Center
+Download Speed: 58.93 Mbps
+Upload Speed: 47.97 Mbps
+Latency: 57.171 ms
+

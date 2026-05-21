@@ -1,58 +1,177 @@
-<div align="center">
+# 🌐 Network Speed Monitor Dashboard
 
-# Network Speed Monitor
+Advanced open-source network speed monitoring system developed with Python and Flask.
 
-A Python-based tool for monitoring and logging your network's speed, utilizing the Speedtest CLI by Ookla. This local utility periodically checks your network's latency, download, and upload speeds, and logs the results for review.
+This project monitors internet performance continuously and provides:
 
-</div>
+- Real-time speed analytics
+- Live dashboard
+- Download / Upload monitoring
+- Ping monitoring
+- CSV data logging
+- Automatic graph generation
+- Outage detection
 
-## Features
+---
 
-- **Automated Speed Tests**: Utilizes the Speedtest CLI for accurate network speed measurements.
-- **Configurable Intervals**: Set the interval between consecutive network speed tests.
-- **Detailed Logging**: Maintains logs for different network types (Ethernet, Wi-Fi) to track performance over time.
+# 🚀 Features
 
-<div align="center">
+## 📊 Live Dashboard
 
-## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+Modern Flask-based dashboard with:
 
-</div>
+- Real-time charts
+- Average statistics
+- Ping monitoring
+- Outage detection
+- Responsive UI
 
-## Prerequisites
+---
 
-- Python 3.x
-- Speedtest CLI (Refer to the [Speedtest CLI documentation](https://www.speedtest.net/apps/cli) for installation instructions.)
+## 📈 Real-Time Graphs
 
-## Installation
+The system automatically generates:
 
-1. Ensure the Speedtest CLI is installed and accessible from your command line.
-2. Clone this repository to your local machine.
-3. Install any required Python dependencies (if specified).
+- Download speed graph
+- Upload speed graph
+- Ping graph
 
-<div align="center">
+using Chart.js and Matplotlib.
 
-# [Join my discord server](https://thatsinewave.github.io/Discord-Redirect/)
+---
 
-</div>
+## 💾 CSV Logging
 
-## Usage
+All speed test results are automatically saved into:
 
-Execute `main_v2.py` to start the speed monitoring process. The script will perform network speed tests at the configured intervals and log the results in designated files.
+```bash
+speed_results.csv
+```
+
+Example:
+
+| Time | Download | Upload | Ping |
+|------|------|------|------|
+| 10:00 | 35 Mbps | 12 Mbps | 45 ms |
+
+---
+
+## 🚨 Internet Outage Detection
+
+If internet speed falls below threshold values,
+the system detects potential outages automatically.
+
+---
+
+# 🛠 Technologies Used
+
+- Python
+- Flask
+- Pandas
+- Matplotlib
+- Chart.js
+- HTML/CSS
+- CSV Logging
+
+---
+
+# 📂 Project Structure
+
+```bash
+Network-Speed-Monitor/
+│
+├── main_v2.py
+├── web_dashboard.py
+├── pdf_report.py
+├── speed_results.csv
+│
+├── static/
+│   ├── style.css
+│   ├── speed_graph.png
+│   └── ping_graph.png
+│
+├── templates/
+│   └── dashboard.html
+│
+└── README.md
+```
+
+---
+
+# ⚙ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/183195Se/Network-Speed-Monitor.git
+```
+
+Install dependencies:
+
+```bash
+pip install flask pandas matplotlib speedtest-cli
+```
+
+---
+
+# ▶ Run Speed Monitor
 
 ```bash
 python main_v2.py
 ```
 
-##Logs
-Speed test results are logged in the following files:
-- `speedtest_log_Ethernet.txt` for Ethernet connections
-- `speedtest_log_Wi-Fi.txt` for Wi-Fi connections
+---
 
-## Customization
-Modify the `main_v2.py` script to adjust the target file type, test intervals, or other parameters according to your requirements.
+# 🌐 Run Dashboard
 
-## Disclaimer
-This tool is for educational and testing purposes only. It showcases the capabilities of automating network speed tests using Python and the Speedtest CLI. The author is not liable for any misuse or for any network disruptions or damages caused by using this tool.
+```bash
+python web_dashboard.py
+```
 
-## License
-This project is open-source and available under the MIT License. Feel free to use, modify, and distribute as needed.
+Open browser:
+
+```bash
+http://127.0.0.1:5000
+```
+
+---
+
+# 📸 Dashboard Preview
+
+Add dashboard screenshots here.
+
+Example:
+
+```bash
+screenshots/dashboard.png
+```
+
+---
+
+# 🔥 Future Improvements
+
+- Telegram notifications
+- PDF reporting
+- Multi-device monitoring
+- Docker support
+- Linux service integration
+
+---
+
+# 👨‍💻 Open Source Contribution
+
+This project was improved as part of an open-source software contribution study.
+
+Added features include:
+
+- Advanced dashboard system
+- Analytics monitoring
+- Real-time chart updates
+- CSV export support
+- UI improvements
+
+---
+
+# 📄 License
+
+MIT License
